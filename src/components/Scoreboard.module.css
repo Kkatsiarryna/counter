@@ -1,0 +1,15 @@
+.scoreboardDiv {
+    width: 350px;
+    height: 150px;
+    margin: 25px auto;
+    border: 2px solid #88d8ed;
+    border-radius: 15px;
+    background-color: #88d8ed;
+}
+ h1{
+     font-size: 50px;
+ }
+
+.stop{
+    color: red;
+}
